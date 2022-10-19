@@ -9,9 +9,8 @@
     "paypal-address":"",
     "keywords":"",
     "geolocation":{"lat":47.7062234,"lon":15.8101491},
-    "parent":"https://github.com/Erganism/mvp-test-1/",
+    "origin":"https://github.com/Erganism/mvp-test-1/",
     "holons" : 
     [
-    { "id": "https://github.com/Erganism/mvp-test-3a/", "label": "Test 3a"}
     ]
 }
