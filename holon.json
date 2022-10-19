@@ -2,14 +2,14 @@
     "version":"0.1",
     "name": "Erganism MVP test 3",
     "url" : "https://www.erganism.org/",
-    "image": "https://raw.githubusercontent.com/erganism/mvp-test-1/main/1.png",
+    "image": "https://raw.githubusercontent.com/erganism/mvp-test-3/main/3.png",
     "eth-address": "",
     "slicer-address":"",
     "xdai-address":"",
     "paypal-address":"",
     "keywords":"",
     "geolocation":{"lat":47.7062234,"lon":15.8101491},
-    "parent":"https://github.com/Erganism/mvp-test-3/",
+    "parent":"https://github.com/Erganism/mvp-test-1/",
     "holons" : 
     [
     { "id": "https://github.com/Erganism/mvp-test-3a/", "label": "Test 3a"}
